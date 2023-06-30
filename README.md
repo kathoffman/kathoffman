@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋!
+
+I'm a research biostatistician based in NYC and a soon-to-be Biostatistics PhD student at the University of Washington. I'm interested in statistics education, improving applied medical research, and causal inference methodology.
 
 <!--
 **kathoffman/kathoffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
