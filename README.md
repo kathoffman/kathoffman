@@ -1,6 +1,4 @@
-👩🏼‍💻 Senior Data Analyst @ Columbia University Medical Center Dept. of Epidemiology
-
-🎓 Incoming Biostatistics PhD student @ University of Washington
+🎓 Biostatistics PhD student @ University of Washington
 
 📝 Blog: [KHstats](https://www.khstats.com/)
 
