@@ -1,4 +1,4 @@
-🎓 1st year Biostatistics PhD student @ University of Washington
+🎓 Biostatistics PhD student @ University of Washington
 
 📝 Blog: [KHstats](https://www.khstats.com/)
 
